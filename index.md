@@ -1,5 +1,3 @@
 ---
-title: Welcome to my blog! This is currently just a test.
+title: test
 ---
-
-This is a test website on GitHub pages.
